@@ -1,0 +1,26 @@
+{
+  "FileVersion": 2,
+  "Id": "696dc000-84ef-46cf-90a8-8dacb0cf8429",
+  "Items": [
+    {
+      "Id": "79a8a273-8720-4133-a7a9-0d874d9f36de",
+      "Command": "--config=./settings.json"
+    },
+    {
+      "Id": "1ced11e2-ccef-4d35-b031-0eed5fcbfe6c",
+      "Command": "--immich-url=\"http://192.168.0.11:2283\""
+    },
+    {
+      "Id": "7454fa41-aecf-4a30-8d15-7cc9530a6fb4",
+      "Command": "--help"
+    },
+    {
+      "Id": "f2d30ad7-1b9c-43d9-8ebb-f02177ea5791",
+      "Command": "--takeout-folder=\"\\\\vmware-host\\Shared Folders\\Takeout\""
+    },
+    {
+      "Id": "2eecc49e-6670-40c0-94f1-7d40855ff0a3",
+      "Command": "--api-key="
+    }
+  ]
+}

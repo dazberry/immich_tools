@@ -1,0 +1,14 @@
+{
+  "FileVersion": 2,
+  "Id": "42a0999b-3221-4248-8a81-275681c9f850",
+  "Items": [
+    {
+      "Id": "43ee78ab-14ca-4518-98ac-88b8195c3144",
+      "Command": "--device-id=\"GoogleTakeout\""
+    },
+    {
+      "Id": "1fb28a84-0ac8-4040-91b3-82187a6b62dc",
+      "Command": "--config=./settings.json"
+    }
+  ]
+}

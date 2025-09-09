@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "immich_uploader": {
+      "commandName": "Project",
+      "commandLineArgs": "--config=./settings.json"
+    }
+  }
+}

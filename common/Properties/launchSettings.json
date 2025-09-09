@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "immich_common": {
+      "commandName": "Project"
+    }
+  }
+}

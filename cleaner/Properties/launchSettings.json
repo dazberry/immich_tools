@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "immich_cleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "--device-id=\"GoogleTakeout\" --config=./settings.json"
+    }
+  }
+}
